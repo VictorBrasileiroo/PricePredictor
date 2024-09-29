@@ -57,8 +57,17 @@
 
 <img src="img footer.svg"></img>
 
+
+## Autores:
+| Nome                                   | Número de Matrícula | E-mail                  | Curso               |
+|----------------------------------------|---------------------|-------------------------|---------------------|
+| Victor André Lopes Brasileiro          | 202407269           | valb1@ic.ufal.br  ou dev.victorbrasileiroo@gmail.com     | Ciência da Computação |
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, sugestões ou correções para este projeto. Pull requests são bem-vindos!
+
+## **Licença**
+Este projeto está licenciado sob os termos da [MIT License](LICENSE).
 
 
