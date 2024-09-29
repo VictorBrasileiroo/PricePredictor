@@ -8,7 +8,6 @@
 - **matplotlib**: Usada para criar gráficos estáticos e visualizações.
 - **plotly.graph_objects**: Utilizada para criar gráficos mais complexos e personalizados.
 - **seaborn**: Uma biblioteca de visualização de dados baseada em matplotlib, que fornece uma interface de alto nível para desenhar gráficos estatísticos.
-- **streamlit**: Facilita a criação de aplicações web interativas para visualização de dados e resultados de análise.
 - **sklearn**: Conjunto de ferramentas para machine learning, utilizado para pré-processamento de dados, treinamento de modelos e avaliação de desempenho.
 
 ## Análise de Dados
