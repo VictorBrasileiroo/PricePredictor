@@ -1,5 +1,7 @@
 # PricePredict: São Paulo Property Pricing
 
+<img src="img title.svg"></img>
+
 ## Bibliotecas Utilizadas
 
 - **pandas**: Utilizada para manipulação e análise de dados em formato tabular.
