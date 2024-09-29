@@ -68,6 +68,6 @@
 Sinta-se à vontade para contribuir com melhorias, sugestões ou correções para este projeto. Pull requests são bem-vindos!
 
 ## **Licença**
-Este projeto está licenciado sob os termos da [MIT License](LICENSE).
+Este projeto está licenciado sob os termos da [MPL Lincese](LICENSE).
 
 
