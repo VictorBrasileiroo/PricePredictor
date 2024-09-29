@@ -37,8 +37,8 @@
 4. **Avaliação dos Modelos**  
    Os modelos são instanciados e treinados. A análise do RMSE (Root Mean Square Error) é realizada para avaliar o desempenho dos modelos.
 
-5. **Validação Cruzada**  
-   Utiliza-se validação cruzada para obter uma avaliação mais robusta do modelo.
+5. **Cross Validation**  
+   Utiliza-se Cross Validation para obter uma avaliação mais robusta do modelo.
 
 ## Avaliação e Otimização do Modelo
 
