@@ -1,6 +1,7 @@
 # PricePredict: São Paulo Property Pricing
 
 <img src="img title.svg"></img>
+<img src="img footer.svg"></img>
 
 ## Bibliotecas Utilizadas
 
