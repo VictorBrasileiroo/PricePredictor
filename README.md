@@ -1,7 +1,6 @@
 # PricePredict: São Paulo Property Pricing
 
 <img src="img title.svg"></img>
-<img src="img footer.svg"></img>
 
 ## Bibliotecas Utilizadas
 
@@ -54,6 +53,8 @@
 
 4. **Visualização dos Resultados**  
    Os resultados são plotados para comparação entre os valores reais e as previsões.
+
+<img src="img footer.svg"></img>
 
 ## Contribuições
 
