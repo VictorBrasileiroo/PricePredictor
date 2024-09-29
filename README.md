@@ -4,7 +4,7 @@
 <img src="img title.svg"></img>
 
 ## Bibliotecas Utilizadas
-- **pandas**: Linguagem de programação utilizada para a implementação do projeto.
+- **Python**: Linguagem de programação utilizada para a implementação do projeto.
 - **pandas**: Utilizada para manipulação e análise de dados em formato tabular.
 - **numpy**: Usada para realizar cálculos numéricos e manipulação de arrays.
 - **plotly.express**: Permite a criação de gráficos interativos e visualizações de dados.
